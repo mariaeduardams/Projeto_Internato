@@ -1,0 +1,4 @@
+CREATE TABLE periodo (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(10) NOT NULL
+);

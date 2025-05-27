@@ -1,0 +1,10 @@
+CREATE TABLE local (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    sigla VARCHAR(20) NOT NULL,
+    endereco VARCHAR(200) NOT NULL,
+    cep VARCHAR(15) NOT NULL,
+    cidade VARCHAR(100) NOT NULL,
+    latitude DOUBLE PRECISION NOT NULL,
+    longitude DOUBLE PRECISION NOT NULL
+);
