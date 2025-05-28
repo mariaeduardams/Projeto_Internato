@@ -34,3 +34,8 @@ Camadas isoladas facilitam testes unitários e de integração.
 - As configurações estão no application.properties;
 - As tabelas criadas estão em resoures.
 
+## Insomnia para Testes dos Endpoints
+
+Usamos o Insomnia para testes, nosso projeto faz GET,POST,PUT e DELETE.
+
+
